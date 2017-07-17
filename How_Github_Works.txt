@@ -6,4 +6,12 @@
 2. Edit File : 'vim <filename>.<ext>'
 	Example : vim testfile.txt
 
+3. Add File to Git : 'git add <filename>.<ext>' or 'git add --all'
+	Example : git add testfile.txt
+
+4. Commit Changes to Git : 'git commit -m <filename>.<ext>' or 'git commit --all'
+	Example : git commit -m testfile.txt
+
+5. Push to Git (Upload File/Upload Changes) : 'git push -u origin master'
+
 End.
