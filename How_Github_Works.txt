@@ -14,4 +14,13 @@
 
 5. Push to Git (Upload File/Upload Changes) : 'git push -u origin master'
 
+6. Edit File Again and Upload Changes :
+	A : Follow Step 2.
+	B : Follow Step 4.
+	C : Follow Step 5.
+
+7. Delete File From Git And Local Directory :
+	A : git rm <filename>.<ext>
+	B : Follow Step 4 And Then Step 5.
+
 End.
