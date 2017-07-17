@@ -1,3 +1,9 @@
 * Following Instructions are for Git Command Line :-
 
 1. Create File : 'touch <filename>.<ext>'
+	Example : touch testfile.txt
+
+2. Edit File : 'vim <filename>.<ext>'
+	Example : vim testfile.txt
+
+End.
